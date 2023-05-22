@@ -1,0 +1,4 @@
+rudi resolusi
+  -membuat sourdcode
+  -membuat aplikasi
+  -membuat web
